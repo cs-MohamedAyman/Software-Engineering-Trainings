@@ -19,8 +19,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Fundamentals-of-Software-Engineering/README.md"><img src="/logos/1.png"></img></a></td>
-<td align="center"><a href="/Continuous-Delivery-and-DevOps/README.md"><img src="/logos/2.png"></img></a></td>
+<td align="center"><a href="/Fundamentals-of-Software-Engineering/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-1.png"></img></a></td>
+<td align="center"><a href="/Continuous-Delivery-and-DevOps/README.md">      <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-2.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -37,8 +37,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Database-Systems-and-Warehousing/README.md"><img src="/logos/3.png"></img></a></td>
-<td align="center"><a href="/Distributed-Systems-and-Software-Architecture/README.md"><img src="/logos/4.png"></img></a></td>
+<td align="center"><a href="/Database-Systems-and-Warehousing/README.md">             <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-3.png"></img></a></td>
+<td align="center"><a href="/Distributed-Systems-and-Software-Architecture/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-4.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -57,8 +57,8 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/Web-Development/README.md"><img src="/logos/5.png"></img></a></td>
-<td align="center"><a href="/Mobile-Development/README.md"><img src="/logos/6.png"></img></a></td>
+<td align="center"><a href="/Web-Development/README.md">   <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-5.png"></img></a></td>
+<td align="center"><a href="/Mobile-Development/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-6.png"></img></a></td>
     </tbody>
     <tbody>
         <tr>
@@ -71,7 +71,7 @@
         </tr>
     </tbody>
     <tbody>
-<td colspan=2 align="center"><a href="/Game-Development/README.md"><img src="/logos/7.png" width="50%"></img></a></td>
+<td colspan=2 align="center"><a href="/Game-Development/README.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/2-7.png" width="50%"></img></a></td>
     </tbody>
 </table>
 
