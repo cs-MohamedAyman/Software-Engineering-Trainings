@@ -32,12 +32,3 @@ Continuous Delivery and DevOps Training for computer science students.
 
 ## [`Udacity Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udacity-courses/software-engineering/README.md)
 
-<br>
-<a href="https://github.com/cs-MohamedAyman/educational-projects/blob/master/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/educational-projects.png"></img></a>
-
-## [`Educational Projects`](https://github.com/cs-MohamedAyman/educational-projects/blob/master/software-engineering/README.md)
-
-<br>
-<a href="https://github.com/cs-MohamedAyman/job-interviews/blob/master/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/job-interviews.png"></img></a>
-
-## [`Job Interviews`](https://github.com/cs-MohamedAyman/job-interviews/blob/master/software-engineering/README.md)
