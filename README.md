@@ -5,10 +5,10 @@
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="/fundamentals-of-software-engineering.md">Fundamentals of Software Engineering Training</a><br><br>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/object-oriented-design.png"></img></a>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/software-engineering.png"></img></a>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/system-analysis.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md">Fundamentals of Software Engineering Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/object-oriented-design.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/software-engineering.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/system-analysis.png"></img></a>
 </td>
 <td align="center"><a href="/database-systems-and-warehousing.md">Database Systems and Warehousing Training</a><br><br>
 <a href="/database-systems-and-warehousing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/database-systems.png"></img></a>
@@ -18,7 +18,7 @@
         </tr>
     </tbody>
     <tbody>
-<td align="center"><a href="/fundamentals-of-software-engineering.md">         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/2-1.png"></img></a></td>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md">         <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/2-1.png"></img></a></td>
 <td align="center"><a href="/database-systems-and-warehousing.md">             <img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-covers/2-2.png"></img></a></td>
     </tbody>
     <tbody>
