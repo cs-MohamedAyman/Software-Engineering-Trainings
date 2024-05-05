@@ -23,7 +23,7 @@
     </tbody>
     <tbody>
         <tr>
-<td align="center"><a href="/continuous-delivery-and-devops.md">Continuous Delivery and Devops Training</a><br><br>
+<td align="center"><a href="/continuous-delivery-and-devops.md">Continuous Delivery and DevOps Training</a><br><br>
 <a href="/continuous-delivery-and-devops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/computer-networks.png"></img></a>
 <a href="/continuous-delivery-and-devops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/devops.png"></img></a>
 <a href="/continuous-delivery-and-devops.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/cloud-computing.png"></img></a>
