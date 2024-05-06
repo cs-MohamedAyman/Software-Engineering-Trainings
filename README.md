@@ -5,15 +5,15 @@
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="/fundamentals-of-software-engineering.md">Fundamentals of Software Engineering Training</a><br><br>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
-<a href="/fundamentals-of-software-engineering.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/system-analysis.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md">Fundamentals of Software Engineering Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/object-oriented-design.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/software-engineering.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Fundamentals-of-Software-Engineering/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/system-analysis.png"></img></a>
 </td>
-<td align="center"><a href="/database-systems-and-warehousing.md">Database Systems and Warehousing Training</a><br><br>
-<a href="/database-systems-and-warehousing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
-<a href="/database-systems-and-warehousing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-warehousing.png"></img></a>
-<a href="/database-systems-and-warehousing.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-design.png"></img></a>
+<td align="center"><a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing/blob/master/README.md">Database Systems and Warehousing Training</a><br><br>
+<a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-systems.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/data-warehousing.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Database-Systems-and-Warehousing/blob/master/README.md"><img align="center" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/database-design.png"></img></a>
 </td>
         </tr>
     </tbody>
