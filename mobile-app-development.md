@@ -26,9 +26,3 @@ Mobile App Development Training for computer science students.
 <a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udemy.png"></img></a>
 
 ## [`Udemy Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udemy-courses/software-engineering/README.md)
-
-<br>
-<a href="https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udacity-courses/software-engineering/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/udacity.png"></img></a>
-
-## [`Udacity Courses`](https://github.com/cs-MohamedAyman/elearning-platforms/blob/master/udacity-courses/software-engineering/README.md)
-
