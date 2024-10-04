@@ -11,7 +11,7 @@
 <th width="270px">Traning Logo</th>
 <th width="270px">Traning Name</th>
 <th width="360px">Course Names</th>
-<th width="30px">Hrs <br> per Course</th>
+<th width="30px">Hrs</th>
         </tr>
     </thead>
     <tbody>
@@ -28,7 +28,7 @@
     <a href="/fundamentals-of-software-engineering.md">Fundamentals of Software Engineering Training</a>
 </td>
 <td align="left">Fundamentals of Software Engineering</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Object Oriented Design</td>
@@ -49,7 +49,7 @@
     <a href="/database-systems-and-warehousing.md">Database Systems and Warehousing Training</a>
 </td>
 <td align="left">Database Systems</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Data Warehousing</td>
@@ -70,7 +70,7 @@
     <a href="/continuous-delivery-and-devops.md">Continuous Delivery and DevOps Training</a>
 </td>
 <td align="left">Computer Network Technology</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Continuous Delivery and DevOps</td>
@@ -91,7 +91,7 @@
     <a href="/distributed-systems-and-software-architecture.md">Distributed Systems and Software Architecture</a>
 </td>
 <td align="left">Distributed Systems</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">Fundamentals of Software Architecture</td>
@@ -112,7 +112,7 @@
     <a href="/desktop-app-development.md">Desktop App Development Training</a>
 </td>
 <td align="left">Desktop App Development</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">User Interface and User Experience</td>
@@ -133,7 +133,7 @@
     <a href="/web-app-development.md">Web App Development Training</a>
 </td>
 <td align="left">Web App Development</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">User Interface and User Experience</td>
@@ -154,7 +154,7 @@
     <a href="/mobile-app-development.md">Mobile App Development Training</a>
 </td>
 <td align="left">Mobile App Development</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">User Interface and User Experience</td>
@@ -175,7 +175,7 @@
     <a href="/game-development.md">Game Development Training</a>
 </td>
 <td align="left">Game Development</td>
-<td align="center" rowspan=3>160</td>
+<td align="center" rowspan=3>240</td>
         </tr>
         <tr>
 <td align="left">User Interface and User Experience</td>
